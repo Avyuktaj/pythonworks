@@ -78,4 +78,23 @@ progress made on: 13 june 2020
     and dictionary other than that i wrote more notes in my program.
     
    progress made on 25th june 
-   1)       
+   1) I wrote a algorithm on : program
+    of printing multiplication table of n numbers
+   2) and i did reserch on it
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+    
