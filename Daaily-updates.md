@@ -82,6 +82,11 @@ progress made on: 13 june 2020
     of printing multiplication table of n numbers
    2) and i did reserch on it
    
+   progress made on 26th june 
+   1) i tried the last pending program 
+   but it was wrong and i wasn't able to understand the program
+    
+   
    
    
    
