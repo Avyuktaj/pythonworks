@@ -86,12 +86,15 @@ progress made on: 13 june 2020
    1) i tried the last pending program 
    but it was wrong and i wasn't able to understand the program
     
+   progress made on 27th june 
+   1) tried the similar program which i did on 26th
+   june.
+   2) my cousine also participated on this program but 
+   the output is showing that same salary as the tax.
    
-   
-   
-   
-   
-   
+   progress made on 28th june
+      
+   1)
    
    
    
