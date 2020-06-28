@@ -2,9 +2,9 @@
 ##( irrepspective of salary range) tax range: up to 15 L 10% 15 to 30 L >> 15% 30 to 40 L >> 20% 40L to 99L >>30% more than 99L >>35%
 age = int(input("Enter Age : "))
 salary = int(input("Enter salary : "))
-tax=5
-if age<=55:
-   print("tax",tax) 
+tax=
+if age>=55:
+   print("tax",10) 
 if tax==10:
    print("15L to 20L")
 if tax==15:
@@ -13,5 +13,9 @@ if tax==20:
    print("30L to 40L")
 if tax==25:
    print("40L to 50L")
-if tax==25:
+if tax==30:
    print("50L to 99L")    
+##THIS PROGRAM IS INCOMPLETE THERE ARE MISSING PARTS
+##AND THERE ARE DOUBTS TO CLEAR IN THIS PARTICULAR PROGRAM
+##HENCE THIS PROGRAM SHOULD BE REVISED AND TO BE COMPLETED BY ME 
+
