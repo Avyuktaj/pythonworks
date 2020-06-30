@@ -94,6 +94,14 @@ progress made on: 13 june 2020
    
    progress made on 28th june
       
+   1) simililar program tried
+      and wrote logic  
+   
+   progress made on 29th june 
+   1) income tax program second file opened 
+    was sucessfull program
+    
+   progress made 0n 30th june 
    1)
    
    
